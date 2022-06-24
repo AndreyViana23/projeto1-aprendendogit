@@ -1,3 +1,10 @@
 ola, meu nome e Andrey
 Estou estudando para desenvolver em JavaScript.
 console.log('Ola Mundo');
+
+function(){
+	const mundo = "Ola Mundo";
+	const numero = 34;
+	console.log(`${mundo} tudo bom ? tenho atualmenete ${numero} anos de didade `)
+
+{
