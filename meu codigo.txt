@@ -1,1 +1,3 @@
 ola, meu nome e Andrey
+Estou estudando para desenvolver em JavaScript.
+console.log('Ola Mundo');
